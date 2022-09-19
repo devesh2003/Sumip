@@ -1,5 +1,6 @@
 1562422790505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36" "--debug=False" "-foreground" "-no-remote" "-profile" "C:\\Users\\deves\\AppData\\Local\\Temp\\rust_mozprofile.SDUJfdbhBgKV"
 *** You are running in headless mode.
+*** You are running in headless mode.
 1562422792528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
 1562422792529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
 1562422792529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
